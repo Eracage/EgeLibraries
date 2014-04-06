@@ -1,0 +1,6 @@
+[submodule "EgePhysics"]
+	path = EgePhysics
+	url = https://github.com/Eracage/EgePhysics.git
+[submodule "EgeMath"]
+	path = EgeMath
+	url = https://github.com/Eracage/EgeMath.git
