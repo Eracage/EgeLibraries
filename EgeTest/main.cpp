@@ -1,10 +1,9 @@
 
 #include <EgeMath/Math.hpp>
-#include <EgePhysics/World.hpp>
-#include <EgePhysics/PhysicsObject.hpp>
+#include <Ege2D/World.hpp>
+#include <Ege2D/PhysicsObject.hpp>
 
 int main()
 {
-	ege::Vector2 test;
 	return 0;
 }

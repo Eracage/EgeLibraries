@@ -4,3 +4,6 @@
 [submodule "EgeMath"]
 	path = EgeMath
 	url = https://github.com/Eracage/EgeMath.git
+[submodule "Ege2D"]
+	path = Ege2D
+	url = https://github.com/Eracage/Ege2D.git
