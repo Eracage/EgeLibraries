@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "EgeMath", "EgeMath\VSProject\EgeMath.vcxproj", "{894A78ED-4B08-40D2-99EF-AE91E32F1428}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "EgePhysics", "EgePhysics\VSProject\EgePhysics.vcxproj", "{72D9ECB9-6F9D-4F82-B6ED-416C6CA86878}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Ege2D", "Ege2D\VSProject\Ege2D.vcxproj", "{72D9ECB9-6F9D-4F82-B6ED-416C6CA86878}"
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "EgeTest", "EgeTest\VSProject\EgeTest.vcxproj", "{F88DA427-44AD-4537-8FB6-E778E7C37D4E}"
 	ProjectSection(ProjectDependencies) = postProject
